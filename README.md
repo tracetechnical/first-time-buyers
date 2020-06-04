@@ -4,9 +4,8 @@
 
 # Savings
 1) Keep a fallback fund before going into housebuying. Here are some of the things you may need money for at very short notice:
-  - Sudden broken boiler
-  - Roof leak
-    etc
+    - Sudden broken boiler
+    - Roof leak
 1) Keep an "emergency pot" for mortgage funds seperate from the above. 
    Should you end up without a job or in other financial difficulty, a mortgage pot will remove this huge burden from your shoulders to give you time to get back on your feet.
    Keep 1 months mortgage minimum, or more if that makes you feel safer.
