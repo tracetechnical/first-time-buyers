@@ -36,19 +36,20 @@ If you want to buy a property for 300k and have a DiP for 270k, you will need to
 95% LTV means you need a minimum 5% deposit. You can still put in a 10% or higher deposit. The higher your deposit percentage, the lower the interest rate you pay and the more deals you have access to.
 The deposit percentages for lowering of rates are stepped, and are normally 5%, 10%, 20% with no huge benefit inbetween these steps at the time of writing.
 ## Making the offetr
-When you make the  offer, you should phone and speak to the estate agent and clearly state that you viewed the property in question (EG 123 springfield ave) and that you wish to put forward an offer.
-The agent will then ask you what the offer you would like to make is. They will then go back to the seller and see if your offer is acceptable.
-If you are buying alone or with someone else, agree the maximum you wish to pay for the property and stick to it.
-Never pay more than the asking price, as this could end in a bidding war.
-If you want to avoid competition, it can be appropriate to pay the asking price straight off to minimise the risks of being beaten by another offer.
-Consider what would be a fair price to pay, if you're dropping 30k off a 250k house... chances are the vendors won't accept unless they are absolutely desperate to sell, and even then it is unlikely.
-Be ready for your first offer to be rejected, and be ready with your next move to ensure the negotations move along swiftly.
+- When you make the  offer, you should phone and speak to the estate agent and clearly state that you viewed the property in question (EG 123 springfield ave) and that you wish to put forward an offer.
+- The agent will then ask you what the offer you would like to make is. They will then go back to the seller and see if your offer is acceptable.
+- If you are buying alone or with someone else, agree the maximum you wish to pay for the property and stick to it.
+- Never pay more than the asking price, as this could end in a bidding war.
+- If you want to avoid competition, it can be appropriate to pay the asking price straight off to minimise the risks of being beaten by another offer.
+- Consider what would be a fair price to pay, if you're dropping 30k off a 250k house... chances are the vendors won't accept unless they are absolutely desperate to sell, and even then it is unlikely.
+- Be ready for your first offer to be rejected, and be ready with your next move to ensure the negotations move along swiftly. Sometimes your first offer is accepted right away. As above, a surefire way to get accepted is to offer the asking price.
 ## When the offer is accepted
 When your offer is accepted, the agent will ask for proof of the following:
 - Deposit funds
 - Decision In Principle for your mortgage
 - Residential address
 - Identity
+
 The proof of funds is for the deposit only, and the DiP will provide proof that the bank are willing to lend you the rest of the money in principle.
 
 !!!YOU WILL NOT KNOW FOR SURE THAT THEY WILL LEND YOU THE MONEY UNTIL YOU APPLY AND RECIEVE A FULL MORTGAGE OFFFER!!!
