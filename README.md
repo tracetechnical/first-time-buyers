@@ -11,8 +11,10 @@
    Keep 1 months mortgage minimum, or more if that makes you feel safer.
 
 # Viewing houses
+---
 
 # Estate Agent tricks
+---
 
 # Making an offer
 ## Getting Ready
@@ -48,14 +50,19 @@ When your offer is accepted, the agent will ask for proof of the following:
 - Residential address
 - Identity
 The proof of funds is for the deposit only, and the DiP will provide proof that the bank are willing to lend you the rest of the money in principle.
+
 !!!YOU WILL NOT KNOW FOR SURE THAT THEY WILL LEND YOU THE MONEY UNTIL YOU APPLY AND RECIEVE A FULL MORTGAGE OFFFER!!!
 
 # If things go wrong
 ## Gut feel
+---
 ## Before the offer is accepted
 If you are certain you wish to withdraw from the purchase, phone the sellers agent to tell them.
 Although this is disappointing for them, they are normally very supportive and will ask if there is anything else that could be negotiated to save the deal.
 They do this in the interests of receiving their comission, but will try as hard as they can to keep the deal going.
 ## After the offer is accepted but before you have paid the solicitors initial fees
+---
 ## After you have paid the initial fees but before searches have been ordered
+---
 ## Once searches are back but before exchange
+---
